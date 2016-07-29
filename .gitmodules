@@ -1,0 +1,3 @@
+[submodule "D-commonCode"]
+	path = D-commonCode
+	url = https://github.com/slamer9/D-commonCode.git
